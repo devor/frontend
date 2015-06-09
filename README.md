@@ -14,6 +14,6 @@ This is a hub for multiple front end resources that I use regularly.
 * [Modular Scale] (http://www.modularscale.com/)
 * [Sassmeister] (http://sassmeister.com/)
 
-#Software
+##Software
 * [Dash] (https://kapeli.com/dash)
 * [Sublime Text] (http://www.sublimetext.com/)
