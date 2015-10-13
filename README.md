@@ -9,6 +9,7 @@ This is a hub for multiple front end resources that I use regularly.
 ##JS
 * [Premade Regex Patterns] (http://html5pattern.com/Names)
 * [Static Map Maker] (http://staticmapmaker.com/google/)
+* [Object.Create] (http://davidwalsh.name/javascript-objects-deconstruction)
 
 ##CSS
 * [Modular Scale] (http://www.modularscale.com/)
